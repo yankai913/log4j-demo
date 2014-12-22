@@ -1,0 +1,4 @@
+2014-12-22 10:41:56,300 [main] INFO  Module1 com.zoo.LogTest2$Module1 (LogTest2.java:48) - this is module1
+2014-12-22 10:41:56,300 [main] INFO  Module2 com.zoo.LogTest2$Module2 (LogTest2.java:57) - this is module2
+2014-12-22 10:41:56,300 [main] INFO  Module1 com.zoo.LogTest2$ServiceImpl_1 (LogTest2.java:66) - this is service
+2014-12-22 10:41:56,300 [main] INFO  Module2 com.zoo.LogTest2$ServiceImpl_2 (LogTest2.java:75) - this is service
